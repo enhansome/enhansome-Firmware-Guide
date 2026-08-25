@@ -228,7 +228,7 @@
             "archived": false,
             "id": 31374735,
             "language": "C",
-            "last_commit": "2026-08-24T23:37:53Z",
+            "last_commit": "2026-08-25T06:23:23Z",
             "owner": "fwupd",
             "repo": "fwupd",
             "stars": 4127
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-24T20:56:12Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6140
+            "stars": 6141
           }
         },
         {
@@ -482,7 +482,7 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:41:22Z",
+                "last_commit": "2026-08-25T06:23:52Z",
                 "owner": "netdata",
                 "repo": "netdata",
                 "stars": 80285
@@ -500,7 +500,7 @@
                 "last_commit": "2026-08-24T18:27:21Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72765
+                "stars": 72766
               }
             },
             {
@@ -1117,7 +1117,7 @@
                 "archived": false,
                 "id": 210716005,
                 "language": "C#",
-                "last_commit": "2026-08-25T03:53:09Z",
+                "last_commit": "2026-08-25T06:05:10Z",
                 "owner": "dotnet",
                 "repo": "runtime",
                 "stars": 18226
@@ -1147,10 +1147,10 @@
                 "archived": false,
                 "id": 1327739,
                 "language": "C#",
-                "last_commit": "2026-08-24T22:43:44Z",
+                "last_commit": "2026-08-25T05:51:48Z",
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25935
+                "stars": 25937
               }
             },
             {
@@ -1162,7 +1162,7 @@
                 "archived": false,
                 "id": 262395224,
                 "language": "C#",
-                "last_commit": "2026-08-25T05:36:14Z",
+                "last_commit": "2026-08-25T06:29:47Z",
                 "owner": "dotnet",
                 "repo": "maui",
                 "stars": 23310
@@ -1227,7 +1227,7 @@
                 "archived": false,
                 "id": 265902625,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:48:47Z",
+                "last_commit": "2026-08-25T06:18:25Z",
                 "owner": "microsoft",
                 "repo": "pylance-release",
                 "stars": 2113
@@ -1320,7 +1320,7 @@
                 "last_commit": "2026-07-19T07:21:52Z",
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8777
+                "stars": 8778
               }
             },
             {
@@ -1380,7 +1380,7 @@
                 "last_commit": "2026-08-24T09:06:41Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28096
+                "stars": 28097
               }
             },
             {
@@ -1475,7 +1475,7 @@
                 "last_commit": "2026-08-24T23:17:15Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17047
+                "stars": 17046
               }
             },
             {
@@ -1550,7 +1550,7 @@
                 "last_commit": "2026-08-25T05:03:52Z",
                 "owner": "servo",
                 "repo": "servo",
-                "stars": 37788
+                "stars": 37787
               }
             },
             {
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:42:22.046Z",
+    "last_updated": "2026-08-25T06:30:01.747Z",
     "original_repository": "mikeroyal/Firmware-Guide",
     "original_repository_id": 389431035,
     "original_repository_sha": "b9083814a56b925bf1e7cebf6ca1d8d078cc3a24",
