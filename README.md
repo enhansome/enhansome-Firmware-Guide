@@ -15,33 +15,33 @@
 
 # Table of Contents
 
-1. [Firmware Learning Resources](https://github.com/mikeroyal/Firmware-Guide#Firmware-learning-resources) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+1. [Firmware Learning Resources](https://github.com/mikeroyal/Firmware-Guide#Firmware-learning-resources) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-2. [Firmware Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Firmware-Guide#Firmware-tools-libraries-and-frameworks) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+2. [Firmware Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Firmware-Guide#Firmware-tools-libraries-and-frameworks) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-3. [Virtualization](https://github.com/mikeroyal/Firmware-Guide#virtualization) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+3. [Virtualization](https://github.com/mikeroyal/Firmware-Guide#virtualization) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-4. [File systems](https://github.com/mikeroyal/Firmware-Guide#file-systems) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+4. [File systems](https://github.com/mikeroyal/Firmware-Guide#file-systems) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-5. [Security Tools and Frameworks](https://github.com/mikeroyal/Firmware-Guide#security-tools-and-frameworks) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+5. [Security Tools and Frameworks](https://github.com/mikeroyal/Firmware-Guide#security-tools-and-frameworks) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-6. [Networking](https://github.com/mikeroyal/Firmware-Guide#networking) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+6. [Networking](https://github.com/mikeroyal/Firmware-Guide#networking) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-7. [Assembly Development](https://github.com/mikeroyal/Firmware-Guide#assembly-development) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+7. [Assembly Development](https://github.com/mikeroyal/Firmware-Guide#assembly-development) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-8. [C/C++ Development](https://github.com/mikeroyal/Firmware-Guide#cc-development) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+8. [C/C++ Development](https://github.com/mikeroyal/Firmware-Guide#cc-development) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-9. [C# Development](https://github.com/mikeroyal/Firmware-Guide#c-development) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+9. [C# Development](https://github.com/mikeroyal/Firmware-Guide#c-development) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-10. [.NET Development](https://github.com/mikeroyal/Firmware-Guide#net-development) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+10. [.NET Development](https://github.com/mikeroyal/Firmware-Guide#net-development) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-11. [Python Development](https://github.com/mikeroyal/Firmware-Guide#python-development) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+11. [Python Development](https://github.com/mikeroyal/Firmware-Guide#python-development) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
-12. [Rust Development](https://github.com/mikeroyal/Firmware-Guide#rust-development) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+12. [Rust Development](https://github.com/mikeroyal/Firmware-Guide#rust-development) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 # Awesome Firmware Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 [Firmware](https://en.wikipedia.org/wiki/Firmware) is a software program that comes embedded in a piece of hardware such as a keyboard, hard drive, BIOS, or a video card. It usually provides basic functions of a device and sometimes only provide services to higher-level software.
 
@@ -71,13 +71,13 @@
 
 # Firmware Tools, Libraries, and Frameworks
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 [Coreboot](https://doc.coreboot.org/getting_started/index.html) is a replacement for your BIOS / UEFI with a strong focus on boot speed, security and flexibility. It is designed to boot your operating system as fast as possible without any compromise to security, with no back doors.
 
 [TianoCore](https://www.tianocore.org/) is a community project supporting an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II is a modern, feature-rich, cross-platform firmware development environment for the UEFI and UEFI Platform Initialization (PI) specifications.
 
-[EDK II](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II) ⭐ 1,404 | 🐛 40 | 🌐 HTML | 📅 2026-07-22 is a modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications .
+[EDK II](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II) ⭐ 1,402 | 🐛 40 | 🌐 HTML | 📅 2026-07-22 is a modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications .
 
 [OpenWrt Project](https://openwrt.org/) is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management.
 
@@ -85,7 +85,7 @@
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,130 | 🐛 108 | 🌐 C | 📅 2026-08-27 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,130 | 🐛 110 | 🌐 C | 📅 2026-08-27 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -107,15 +107,15 @@
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,130 | 🐛 108 | 🌐 C | 📅 2026-08-27, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,130 | 🐛 110 | 🌐 C | 📅 2026-08-27, written in Rust.
 
 [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,099 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
-[Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,876 | 🐛 344 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
+[Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,877 | 🐛 344 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
 
 [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,582 | 🐛 51 | 🌐 Python | 📅 2024-09-16 is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the ["Offensive IoT Exploitation"](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation) training conducted by [Attify](https://attify.com/).
 
-[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,460 | 🐛 143 | 🌐 Python | 📅 2026-08-25 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
+[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,460 | 🐛 145 | 🌐 Python | 📅 2026-08-27 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
 
 [Mellanox firmware update and query utility](https://www.mellanox.com/support/firmware/mlxup-mft) is a utility that enables scanning the server machine for available Mellanox adapters and indicates whether firmware update is required for each adapter.
 
@@ -129,7 +129,7 @@
 
 # Virtualization
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -145,7 +145,7 @@
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,234 | 🐛 162 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,233 | 🐛 162 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -159,7 +159,7 @@
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,151 | 🐛 224 | 🌐 Rust | 📅 2026-08-27 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,152 | 🐛 226 | 🌐 Rust | 📅 2026-08-27 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -179,7 +179,7 @@
 
 # File systems
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 [GlusterFS](https://www.gluster.org/) is a free and open source scalable network filesystem. Gluster is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks.
 
@@ -211,7 +211,7 @@
 
 # Security Tools and Frameworks
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 ## Security Standards, Frameworks and Benchmarks
 
@@ -244,13 +244,13 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 ## Security Tools
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,320 | 🐛 387 | 🌐 Go | 📅 2026-08-27 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,321 | 🐛 387 | 🌐 Go | 📅 2026-08-27 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [IDA Pro(Interactive DisAssembler Professional)](https://hex-rays.com/IDA-pro/) is a programmable and multi-processor disassembler combined with a local/remote debugger and along with a complete plugin programming environment. It's a great tool for testing and discovering security vulnerabilities.
 
-[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,928 | 🐛 1,921 | 🌐 Java | 📅 2026-08-25 is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze any malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems.
+[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,952 | 🐛 1,921 | 🌐 Java | 📅 2026-08-25 is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze any malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems.
 
-[DataWave](https://github.com/NationalSecurityAgency/datawave) ⭐ 725 | 🐛 381 | 🌐 Java | 📅 2026-08-27 is an ingest/query framework that leverages [Apache Accumulo](https://accumulo.apache.org/) to provide fast, secure data access.
+[DataWave](https://github.com/NationalSecurityAgency/datawave) ⭐ 725 | 🐛 382 | 🌐 Java | 📅 2026-08-27 is an ingest/query framework that leverages [Apache Accumulo](https://accumulo.apache.org/) to provide fast, secure data access.
 
 [Emissary](https://github.com/NationalSecurityAgency/emissary) ⭐ 313 | 🐛 20 | 🌐 Java | 📅 2026-08-27 is a P2P based data-driven workflow engine that runs in a heterogeneous possibly widely dispersed, multi-tiered P2P network of compute resources. Workflow itineraries are not pre-planned as in conventional workflow engines, but are discovered as more information is discovered about the data.
 
@@ -284,7 +284,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Scapy](https://scapy.net/) is a python-based interactive packet manipulation program & library.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,309 | 🐛 620 | 🌐 Go | 📅 2026-08-27 is an unsupervised, coverage-guided kernel fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,309 | 🐛 619 | 🌐 Go | 📅 2026-08-27 is an unsupervised, coverage-guided kernel fuzzer.
 
 [SchedViz](https://github.com/google/schedviz) ⚠️ Archived is a tool for gathering and visualizing kernel scheduling traces on Linux machines.
 
@@ -316,7 +316,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
@@ -367,13 +367,13 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [DoH](https://github.com/curl/doh) ⭐ 431 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,460 | 🐛 334 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,462 | 🐛 334 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,217 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
 [Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,722 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
-[Websocat](https://github.com/vi/websocat) ⭐ 8,673 | 🐛 158 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
+[Websocat](https://github.com/vi/websocat) ⭐ 8,674 | 🐛 158 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
 ```
 • Connection: In networking, a connection refers to pieces of related information that are transferred through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.
@@ -485,7 +485,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Assembly Development
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/101415607-18154480-389d-11eb-80e8-17a5c57e480f.png">
@@ -560,11 +560,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,625 | 🐛 242 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,270 | 🐛 215 | 🌐 C | 📅 2026-08-27 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,269 | 🐛 215 | 🌐 C | 📅 2026-08-27 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -599,7 +599,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,280 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,278 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -645,7 +645,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,403 | 🐛 1,200 | 🌐 CMake | 📅 2026-08-26 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,403 | 🐛 1,203 | 🌐 CMake | 📅 2026-08-26 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -697,13 +697,13 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,530 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,533 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 # C# Development
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306457-d6c0fa00-ff27-11ea-85dc-83dbb8f3e3e6.png">
@@ -745,7 +745,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
-[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,547 | 🐛 1,682 | 🌐 C# | 📅 2026-08-27 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
+[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,547 | 🐛 1,679 | 🌐 C# | 📅 2026-08-27 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
 
 [Roslyn](https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/) is a .NET compiler developed by Microsoft that provides C# and Visual Basic languages with rich code analysis APIs.
 
@@ -781,13 +781,13 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [ANTLR (ANother Tool for Language Recognition)](https://www.antlr.org/) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.
 
-[AutoRest](https://github.com/Azure/autorest) ⭐ 4,798 | 🐛 22 | 🌐 TypeSpec | 📅 2026-08-12 is a tool generates client libraries for accessing RESTful web services using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,186 | 🐛 81 | 🌐 Markdown | 📅 2026-08-26 format. It Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby.
+[AutoRest](https://github.com/Azure/autorest) ⭐ 4,798 | 🐛 22 | 🌐 TypeSpec | 📅 2026-08-12 is a tool generates client libraries for accessing RESTful web services using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,187 | 🐛 77 | 🌐 Markdown | 📅 2026-08-27 format. It Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby.
 
 [Markdig](https://github.com/lunet-io/markdig) ⭐ 5,307 | 🐛 118 | 🌐 C# | 📅 2026-08-18 is a fast, powerful, [CommonMark](https://commonmark.org/) compliant, extensible Markdown processor for .NET.
 
 # .NET Development
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719689-0d1e0400-fb39-11ea-82e5-331a8ff8060d.png">
@@ -812,7 +812,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
-[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,231 | 🐛 7,617 | 🌐 C# | 📅 2026-08-27 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
+[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,231 | 🐛 7,611 | 🌐 C# | 📅 2026-08-27 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
 
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -832,11 +832,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Avalonia](https://avaloniaui.net/) is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS.
 
-[Polly](https://github.com/App-vNext/Polly) ⭐ 14,230 | 🐛 5 | 🌐 C# | 📅 2026-08-23 is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+[Polly](https://github.com/App-vNext/Polly) ⭐ 14,231 | 🐛 5 | 🌐 C# | 📅 2026-08-27 is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 
 [IdentityServer](https://identityserver.io/) is a free, open source [OpenID Connect](https://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core. IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
 
-[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,959 | 🐛 185 | 🌐 C# | 📅 2026-08-27 is the open-source .NET assembly browser and decompiler.
+[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,961 | 🐛 186 | 🌐 C# | 📅 2026-08-27 is the open-source .NET assembly browser and decompiler.
 
 [Hangfire](https://www.hangfire.io/) is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.
 
@@ -846,13 +846,13 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Refit](https://reactiveui.github.io/refit/) is the automatic type-safe REST library for .NET Core, Xamarin and .NET.It's heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
-[MAUI](https://github.com/dotnet/maui) ⭐ 23,311 | 🐛 3,797 | 🌐 C# | 📅 2026-08-27 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+[MAUI](https://github.com/dotnet/maui) ⭐ 23,312 | 🐛 3,802 | 🌐 C# | 📅 2026-08-27 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 [Quasar](https://github.com/quasar/Quasar) ⚠️ Archived is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
 # Python Development
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
@@ -910,9 +910,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Python Tools for Visual Studio(PTVS)](https://microsoft.github.io/PTVS/) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.
 
-[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,115 | 🐛 75 | 🌐 Python | 📅 2026-08-26 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
+[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,116 | 🐛 75 | 🌐 Python | 📅 2026-08-26 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
 
-[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,600 | 🐛 321 | 🌐 Python | 📅 2026-08-27 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,601 | 🐛 321 | 🌐 Python | 📅 2026-08-27 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 [Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -924,7 +924,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,460 | 🐛 334 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,462 | 🐛 334 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
@@ -950,7 +950,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Dash](https://plotly.com/dash) is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.
 
-[Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 170 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
+[Luigi](https://github.com/spotify/luigi) ⭐ 18,766 | 🐛 170 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
 [Locust](https://github.com/locustio/locust) ⭐ 28,107 | 🐛 3 | 🌐 Python | 📅 2026-08-26 is an easy to use, scriptable and scalable performance testing tool.
 
@@ -974,7 +974,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Rust Development
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93025405-8dc98700-f5b2-11ea-93f9-12b4a0ef3001.png">
@@ -1003,37 +1003,37 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## Rust Tools
 
-[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,433 | 🐛 1,659 | 🌐 Rust | 📅 2026-08-26 is a package manager that downloads your Rust project’s dependencies and compiles your project.
+[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,434 | 🐛 1,662 | 🌐 Rust | 📅 2026-08-26 is a package manager that downloads your Rust project’s dependencies and compiles your project.
 
 [Crater](https://crater.rust-lang.org/) is a tool to run experiments across parts of the Rust ecosystem. Its primary purpose is to detect regressions in the Rust compiler, and it does this by building a large number of crates, running their test suites and comparing the results between two versions of the Rust compiler. It can operate locally (with Docker as the only dependency) or distributed on the cloud. It can operate locally (with Docker as the only dependency) or distributed on the cloud.
 
 [VSCode-Rust](https://github.com/rust-lang/vscode-rust) ⚠️ Archived is plugin that adds language support for Rust to Visual Studio Code. Rust support is powered by a separate language server - either by the official Rust Language Server (RLS) or rust-analyzer, depending on the user's preference. If you don't have it installed, the extension will install it for you (with permission). This extension is built and maintained by the Rust IDEs and editors team with the focus on providing a stable, high quality extension that makes the best use of the respective language server.
 
-[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,066 | 🐛 2,584 | 🌐 C++ | 📅 2026-08-27 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
+[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,066 | 🐛 2,582 | 🌐 C++ | 📅 2026-08-27 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
 
-[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 20,974 | 🐛 232 | 🌐 Rust | 📅 2026-08-27.
+[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 20,974 | 🐛 242 | 🌐 Rust | 📅 2026-08-27.
 
 [Firecracker](https://firecracker-microvm.github.io) is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) ⚠️ Archived and [Weaveworks Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived.
 
 [Tokio](https://github.com/tokio-rs/tokio) ⭐ 33,023 | 🐛 445 | 🌐 Rust | 📅 2026-08-27 is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
 
-[TiKV](https://github.com/tikv/tikv) ⭐ 16,812 | 🐛 1,797 | 🌐 Rust | 📅 2026-08-27 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
+[TiKV](https://github.com/tikv/tikv) ⭐ 16,814 | 🐛 1,797 | 🌐 Rust | 📅 2026-08-27 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
 
 [Sonic](https://crates.io/crates/sonic-server) is a fast, lightweight and schema-less search backend similar to Elasticsearch in some use-cases.
 
-[Hyper](https://github.com/hyperium/hyper) ⭐ 16,297 | 🐛 254 | 🌐 Rust | 📅 2026-08-26 is a fast and correct HTTP library for Rust.
+[Hyper](https://github.com/hyperium/hyper) ⭐ 16,298 | 🐛 256 | 🌐 Rust | 📅 2026-08-27 is a fast and correct HTTP library for Rust.
 
-[Rocket](https://github.com/SergioBenitez/Rocket) ⭐ 25,782 | 🐛 90 | 🌐 Rust | 📅 2025-12-28 is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
+[Rocket](https://github.com/SergioBenitez/Rocket) ⭐ 25,783 | 🐛 90 | 🌐 Rust | 📅 2025-12-28 is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
 
 [Clippy](https://rust-lang.github.io/rust-clippy/) is a collection of lints to catch common mistakes and improve your Rust code.
 
-[Servo](https://github.com/servo/servo) ⭐ 37,802 | 🐛 3,159 | 🌐 Rust | 📅 2026-08-27 is a prototype web browser engine written in the Rust language.
+[Servo](https://github.com/servo/servo) ⭐ 37,804 | 🐛 3,161 | 🌐 Rust | 📅 2026-08-27 is a prototype web browser engine written in the Rust language.
 
 [Vector](https://vector.dev/) is a high-performance, end-to-end (agent & aggregator) observability data platform that puts the user in control of their observability data.
 
-[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,306 | 🐛 394 | 🌐 Rust | 📅 2026-08-26 is a Python Interpreter written in Rust.
+[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,307 | 🐛 394 | 🌐 Rust | 📅 2026-08-26 is a Python Interpreter written in Rust.
 
-[Miri](https://github.com/rust-lang/miri) ⭐ 6,535 | 🐛 177 | 🌐 Rust | 📅 2026-08-27 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
+[Miri](https://github.com/rust-lang/miri) ⭐ 6,536 | 🐛 177 | 🌐 Rust | 📅 2026-08-27 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
 
 [Chalk](https://rust-lang.github.io/chalk/book/) is an implementation and definition of the Rust trait system using a PROLOG-like logic solver.
 
@@ -1041,7 +1041,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Simpleinfra](https://github.com/rust-lang/simpleinfra) ⭐ 176 | 🐛 71 | 🌐 HCL | 📅 2026-08-27 is rep that contains the tools and automation written by the Rust infrastructure team to manage our services. Using some of the tools in this repo require privileges only infra team members have.
 
-[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,962 | 🐛 34 | 🌐 Rust | 📅 2026-08-24 is a small set of exercises to get you used to reading and writing Rust code.
+[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,965 | 🐛 35 | 🌐 Rust | 📅 2026-08-24 is a small set of exercises to get you used to reading and writing Rust code.
 
 [Krustlet](https://krustlet.dev/) acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes [tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/). The project is currently experimental.
 
@@ -1059,11 +1059,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Firmware-Guide/pulls) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Firmware-Guide/pulls) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23.
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 164 | 🐛 0 | 🌐 C | 📅 2022-01-23
+[Back to the Top](https://github.com/mikeroyal/Firmware-Guide#table-of-contents) ⭐ 165 | 🐛 0 | 🌐 C | 📅 2022-01-23
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 

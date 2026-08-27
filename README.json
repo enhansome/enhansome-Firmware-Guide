@@ -15,7 +15,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2022-01-23T23:31:14Z",
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 164
+            "stars": 165
           }
         }
       ],
@@ -201,7 +201,7 @@
             "last_commit": "2026-07-22T15:59:32Z",
             "owner": "tianocore",
             "repo": "tianocore.github.io",
-            "stars": 1404
+            "stars": 1402
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 31374735,
             "language": "C",
-            "last_commit": "2026-08-27T10:33:14Z",
+            "last_commit": "2026-08-27T15:08:57Z",
             "owner": "fwupd",
             "repo": "fwupd",
             "stars": 4130
@@ -291,7 +291,7 @@
             "last_commit": "2026-07-13T17:06:43Z",
             "owner": "seemoo-lab",
             "repo": "nexmon",
-            "stars": 2876
+            "stars": 2877
           }
         },
         {
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 104088122,
             "language": "Python",
-            "last_commit": "2026-08-25T15:54:38Z",
+            "last_commit": "2026-08-27T15:53:23Z",
             "owner": "fkie-cad",
             "repo": "FACT_core",
             "stars": 1460
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3234
+            "stars": 3233
           }
         },
         {
@@ -429,10 +429,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:13:32Z",
+            "last_commit": "2026-08-27T15:51:00Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6151
+            "stars": 6152
           }
         },
         {
@@ -482,10 +482,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:27:02Z",
+                "last_commit": "2026-08-27T12:42:27Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80320
+                "stars": 80321
               }
             },
             {
@@ -500,7 +500,7 @@
                 "last_commit": "2026-08-25T16:51:31Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72928
+                "stars": 72952
               }
             },
             {
@@ -512,7 +512,7 @@
                 "archived": false,
                 "id": 116999027,
                 "language": "Java",
-                "last_commit": "2026-08-27T04:13:21Z",
+                "last_commit": "2026-08-27T15:51:00Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "datawave",
                 "stars": 725
@@ -662,7 +662,7 @@
                 "archived": false,
                 "id": 44087204,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:37:04Z",
+                "last_commit": "2026-08-27T14:52:09Z",
                 "owner": "google",
                 "repo": "syzkaller",
                 "stars": 6309
@@ -783,7 +783,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
+                "stars": 38462
               }
             },
             {
@@ -828,7 +828,7 @@
                 "last_commit": "2026-08-13T10:17:56Z",
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8673
+                "stars": 8674
               }
             }
           ],
@@ -884,7 +884,7 @@
             "last_commit": "2026-08-27T11:23:41Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9270
+            "stars": 9269
           }
         }
       ],
@@ -907,7 +907,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45280
+                "stars": 45278
               }
             }
           ],
@@ -989,7 +989,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29530
+                "stars": 29533
               }
             }
           ],
@@ -1014,7 +1014,7 @@
                 "archived": false,
                 "id": 32051890,
                 "language": "C#",
-                "last_commit": "2026-08-27T10:22:41Z",
+                "last_commit": "2026-08-27T14:58:39Z",
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5547
@@ -1117,7 +1117,7 @@
                 "archived": false,
                 "id": 210716005,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:15:18Z",
+                "last_commit": "2026-08-27T15:05:27Z",
                 "owner": "dotnet",
                 "repo": "runtime",
                 "stars": 18231
@@ -1132,10 +1132,10 @@
                 "archived": false,
                 "id": 9864166,
                 "language": "C#",
-                "last_commit": "2026-08-23T10:35:37Z",
+                "last_commit": "2026-08-27T14:13:05Z",
                 "owner": "App-vNext",
                 "repo": "Polly",
-                "stars": 14230
+                "stars": 14231
               }
             },
             {
@@ -1147,10 +1147,10 @@
                 "archived": false,
                 "id": 1327739,
                 "language": "C#",
-                "last_commit": "2026-08-27T08:51:07Z",
+                "last_commit": "2026-08-27T12:44:00Z",
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25959
+                "stars": 25961
               }
             },
             {
@@ -1162,10 +1162,10 @@
                 "archived": false,
                 "id": 262395224,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:37:37Z",
+                "last_commit": "2026-08-27T16:24:53Z",
                 "owner": "dotnet",
                 "repo": "maui",
-                "stars": 23311
+                "stars": 23312
               }
             },
             {
@@ -1230,7 +1230,7 @@
                 "last_commit": "2026-08-26T05:12:51Z",
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2115
+                "stars": 2116
               }
             },
             {
@@ -1245,7 +1245,7 @@
                 "last_commit": "2026-08-27T01:42:47Z",
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15600
+                "stars": 15601
               }
             },
             {
@@ -1275,7 +1275,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
+                "stars": 38462
               }
             },
             {
@@ -1365,7 +1365,7 @@
                 "last_commit": "2026-07-18T11:15:46Z",
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18765
+                "stars": 18766
               }
             },
             {
@@ -1445,7 +1445,7 @@
                 "last_commit": "2026-08-26T22:08:09Z",
                 "owner": "rust-lang",
                 "repo": "cargo",
-                "stars": 15433
+                "stars": 15434
               }
             },
             {
@@ -1472,7 +1472,7 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:33:16Z",
+                "last_commit": "2026-08-27T14:29:58Z",
                 "owner": "apache",
                 "repo": "arrow",
                 "stars": 17066
@@ -1505,7 +1505,7 @@
                 "last_commit": "2026-08-27T09:09:03Z",
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16812
+                "stars": 16814
               }
             },
             {
@@ -1517,10 +1517,10 @@
                 "archived": false,
                 "id": 23500865,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:25:59Z",
+                "last_commit": "2026-08-27T16:08:06Z",
                 "owner": "hyperium",
                 "repo": "hyper",
-                "stars": 16297
+                "stars": 16298
               }
             },
             {
@@ -1535,7 +1535,7 @@
                 "last_commit": "2025-12-28T18:27:39Z",
                 "owner": "rwf2",
                 "repo": "Rocket",
-                "stars": 25782
+                "stars": 25783
               }
             },
             {
@@ -1547,10 +1547,10 @@
                 "archived": false,
                 "id": 3390243,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:28:20Z",
+                "last_commit": "2026-08-27T15:41:06Z",
                 "owner": "servo",
                 "repo": "servo",
-                "stars": 37802
+                "stars": 37804
               }
             },
             {
@@ -1565,7 +1565,7 @@
                 "last_commit": "2026-08-26T14:38:11Z",
                 "owner": "RustPython",
                 "repo": "RustPython",
-                "stars": 22306
+                "stars": 22307
               }
             },
             {
@@ -1580,7 +1580,7 @@
                 "last_commit": "2026-08-27T07:43:59Z",
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6535
+                "stars": 6536
               }
             },
             {
@@ -1592,7 +1592,7 @@
                 "archived": false,
                 "id": 97986310,
                 "language": "HCL",
-                "last_commit": "2026-08-27T11:00:36Z",
+                "last_commit": "2026-08-27T15:04:34Z",
                 "owner": "rust-lang",
                 "repo": "simpleinfra",
                 "stars": 176
@@ -1610,7 +1610,7 @@
                 "last_commit": "2026-08-24T21:17:41Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63962
+                "stars": 63965
               }
             }
           ],
@@ -1654,7 +1654,7 @@
                 "last_commit": "2022-01-23T23:31:14Z",
                 "owner": "mikeroyal",
                 "repo": "Firmware-Guide",
-                "stars": 164
+                "stars": 165
               }
             }
           ],
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:11.349Z",
+    "last_updated": "2026-08-27T16:25:51.366Z",
     "original_repository_info": {
       "archived": false,
       "id": 389431035,
@@ -1675,7 +1675,7 @@
       "last_commit": "2022-01-23T23:31:14Z",
       "owner": "mikeroyal",
       "repo": "Firmware-Guide",
-      "stars": 164
+      "stars": 165
     },
     "original_repository_sha": "b9083814a56b925bf1e7cebf6ca1d8d078cc3a24",
     "enhanced_repository": "enhansome/enhansome-Firmware-Guide",
