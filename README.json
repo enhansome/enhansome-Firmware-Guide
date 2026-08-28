@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         }
       ],
       "title": "A guide covering the Firmware the applications, libraries and tools that will make you a better and more efficient with Firmware development."
@@ -202,7 +214,8 @@
             "owner": "tianocore",
             "repo": "tianocore.github.io",
             "stars": 1402
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2026-08-06T08:22:13Z",
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3404
-          }
+            "stars": 3406
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 31374735,
             "language": "C",
-            "last_commit": "2026-08-27T15:08:57Z",
+            "last_commit": "2026-08-28T09:00:11Z",
             "owner": "fwupd",
             "repo": "fwupd",
-            "stars": 4130
-          }
+            "stars": 4132
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "pop-os",
             "repo": "system76-firmware",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "pop-os",
             "repo": "firmware-manager",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "Benjamin-Dobell",
             "repo": "Heimdall",
             "stars": 3099
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -291,8 +309,9 @@
             "last_commit": "2026-07-13T17:06:43Z",
             "owner": "seemoo-lab",
             "repo": "nexmon",
-            "stars": 2877
-          }
+            "stars": 2879
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "attify",
             "repo": "firmware-analysis-toolkit",
             "stars": 1582
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -318,11 +338,12 @@
             "archived": false,
             "id": 104088122,
             "language": "Python",
-            "last_commit": "2026-08-27T15:53:23Z",
+            "last_commit": "2026-08-28T13:47:54Z",
             "owner": "fkie-cad",
             "repo": "FACT_core",
             "stars": 1460
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -336,8 +357,9 @@
             "last_commit": "2026-08-20T10:47:05Z",
             "owner": "qmk",
             "repo": "qmk_toolbox",
-            "stars": 3071
-          }
+            "stars": 3072
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -351,8 +373,9 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20659
-          }
+            "stars": 20662
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "tmk",
             "repo": "tmk_keyboard",
             "stars": 4132
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         }
       ],
       "title": "Firmware Tools, Libraries, and Frameworks"
@@ -388,7 +412,8 @@
             "owner": "virt-manager",
             "repo": "virt-manager",
             "stars": 3233
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "moby",
             "repo": "hyperkit",
             "stars": 3713
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "intel",
             "repo": "gvt-linux",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -429,11 +456,12 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T15:51:00Z",
+            "last_commit": "2026-08-28T17:02:01Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6152
-          }
+            "stars": 6156
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -447,8 +475,9 @@
             "last_commit": "2026-08-27T10:43:49Z",
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 842
-          }
+            "stars": 843
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         }
       ],
       "title": "Virtualization"
@@ -482,11 +512,12 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-27T12:42:27Z",
+                "last_commit": "2026-08-28T11:23:48Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80321
-              }
+                "stars": 80336
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -497,11 +528,12 @@
                 "archived": false,
                 "id": 173228436,
                 "language": "Java",
-                "last_commit": "2026-08-25T16:51:31Z",
+                "last_commit": "2026-08-28T13:31:09Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72952
-              }
+                "stars": 73239
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -512,11 +544,12 @@
                 "archived": false,
                 "id": 116999027,
                 "language": "Java",
-                "last_commit": "2026-08-27T15:51:00Z",
+                "last_commit": "2026-08-28T16:42:35Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "datawave",
                 "stars": 725
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -531,7 +564,8 @@
                 "owner": "NationalSecurityAgency",
                 "repo": "emissary",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -546,7 +580,8 @@
                 "owner": "NationalSecurityAgency",
                 "repo": "MADCert",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -561,7 +596,8 @@
                 "owner": "Netflix",
                 "repo": "bless",
                 "stars": 2758
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -572,11 +608,12 @@
                 "archived": false,
                 "id": 8759133,
                 "language": "Java",
-                "last_commit": "2026-08-12T21:05:20Z",
+                "last_commit": "2026-08-27T16:32:42Z",
                 "owner": "Netflix",
                 "repo": "zuul",
                 "stars": 14063
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -591,7 +628,8 @@
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
                 "stars": 17091
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -606,7 +644,8 @@
                 "owner": "Netflix",
                 "repo": "Priam",
                 "stars": 1039
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -621,7 +660,8 @@
                 "owner": "Netflix",
                 "repo": "vector",
                 "stars": 3571
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -636,7 +676,8 @@
                 "owner": "cilium",
                 "repo": "hubble",
                 "stars": 4315
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -651,7 +692,8 @@
                 "owner": "cilium",
                 "repo": "certgen",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -662,11 +704,12 @@
                 "archived": false,
                 "id": 44087204,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:52:09Z",
+                "last_commit": "2026-08-28T14:06:25Z",
                 "owner": "google",
                 "repo": "syzkaller",
                 "stars": 6309
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -681,7 +724,8 @@
                 "owner": "google",
                 "repo": "schedviz",
                 "stars": 533
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -696,7 +740,8 @@
                 "owner": "xmendez",
                 "repo": "wfuzz",
                 "stars": 6558
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -710,8 +755,9 @@
                 "last_commit": "2026-08-01T11:03:53Z",
                 "owner": "getpatchwork",
                 "repo": "patchwork",
-                "stars": 314
-              }
+                "stars": 315
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -726,7 +772,8 @@
                 "owner": "tink-crypto",
                 "repo": "tink",
                 "stars": 13537
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "IDA Pro(Interactive DisAssembler Professional) is a programmable and multi-processor disassembler combined with a local/remote debugger and along with a complete plugin programming environment. It's a great tool for testing and discovering security vulnerabilities.\nControl Groups(Cgroups) is a Linux kernel feature that allows you to allocate resources such as CPU time, system memory, network bandwidth, or any combination of these resources for user-defined groups of tasks (processes) running on a system.\nLibgcrypt is a general purpose cryptographic library originally based on code from GnuPG.\nAircrack-ng is a network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker and analysis tool for 802.11 wireless LANs. It works with any wireless network interface controller whose driver supports raw monitoring mode and can sniff 802.11a, 802.11b and 802.11g traffic.\nBurp Suite is a leading range of cybersecurity tools.\nCilium uses eBPF to accelerate getting data in and out of L7 proxies such as Envoy, enabling efficient visibility into API protocols like HTTP, gRPC, and Kafka.\nIstio is an open platform to connect, manage, and secure microservices. Istio's control plane provides an abstraction layer over the underlying cluster management platform, such as Kubernetes and Mesos.\nScapy is a python-based interactive packet manipulation program & library.\noss-fuzz aims to make common open source software more secure and stable by combining modern fuzzing techniques with scalable, distributed execution.\nOSSEC is a free, open-source host-based intrusion detection system. It performs log analysis, integrity checking, Windows registry monitoring, rootkit detection, time-based alerting, and active response.\nMetasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.\nNmap is a security scanner used to discover hosts and services on a computer network, thus building a \"map\" of the network.\npfSense is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.\nSnort is an open-source, free and lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats.\nWireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.\nOpenSCAP is U.S. standard maintained by National Institute of Standards and Technology (NIST). It provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines. OpenSCAP maintains great flexibility and interoperability by reducing the costs of performing security audits. Whether you want to evaluate DISA STIGs, NIST‘s USGCB, or Red Hat’s Security Response Team’s content, all are supported by OpenSCAP.\nOWASP is an online community, produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.\nOpen Vulnerability and Assessment Language is a community effort to standardize how to assess and report upon the machine state of computer systems. OVAL includes a language to encode system details, and community repositories of content. Tools and services that use OVAL provide enterprises with accurate, consistent, and actionable information to improve their security.",
@@ -750,11 +797,12 @@
                 "archived": false,
                 "id": 104416990,
                 "language": "C++",
-                "last_commit": "2026-08-26T21:33:15Z",
+                "last_commit": "2026-08-27T19:53:15Z",
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -769,7 +817,8 @@
                 "owner": "curl",
                 "repo": "doh",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -783,8 +832,9 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38462
-              }
+                "stars": 38465
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -798,8 +848,9 @@
                 "last_commit": "2026-04-08T10:04:34Z",
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6217
-              }
+                "stars": 6218
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -813,8 +864,9 @@
                 "last_commit": "2026-08-04T12:36:56Z",
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10722
-              }
+                "stars": 10726
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -828,8 +880,9 @@
                 "last_commit": "2026-08-13T10:17:56Z",
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8674
-              }
+                "stars": 8676
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "cURL is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.\nPackets have a header portion that contains information about the packet including the source and destination, timestamps, network hops. The main portion of a packet contains the actual data being transferred. It is sometimes called the body or the payload.\nA network interface may be associated with a physical device, or it may be a representation of a virtual interface. The \"loop-back\" device, which is a virtual interface to the local machine, is an example of this.\nIf an interface is connected to the WAN, it is generally assumed that it is reachable through the internet.\nSome low level protocols are TCP, UDP, IP, and ICMP. Some familiar examples of application layer protocols, built on these lower protocols, are HTTP (for accessing web content), SSH, TLS/SSL, and FTP.",
@@ -851,11 +904,12 @@
             "archived": false,
             "id": 280846497,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:40:11Z",
+            "last_commit": "2026-08-28T06:27:26Z",
             "owner": "dosasm",
             "repo": "masm-tasm",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -870,7 +924,8 @@
             "owner": "keystone-engine",
             "repo": "keystone",
             "stars": 2625
-          }
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         },
         {
           "node_type": "item",
@@ -881,11 +936,12 @@
             "archived": false,
             "id": 41107037,
             "language": "C",
-            "last_commit": "2026-08-27T11:23:41Z",
+            "last_commit": "2026-08-28T09:09:56Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9269
-          }
+            "stars": 9270
+          },
+          "first_seen": "2026-08-28T17:23:08.280Z"
         }
       ],
       "title": "Assembly Tools & Architectures"
@@ -907,8 +963,9 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45278
-              }
+                "stars": 45280
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
@@ -926,11 +983,12 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-26T19:17:53Z",
+                "last_commit": "2026-08-28T17:04:28Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27403
-              }
+                "stars": 27402
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -944,8 +1002,9 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3406
-              }
+                "stars": 3405
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -960,7 +1019,8 @@
                 "owner": "NVIDIA",
                 "repo": "thrust",
                 "stars": 5002
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -975,7 +1035,8 @@
                 "owner": "bytedeco",
                 "repo": "javacpp",
                 "stars": 4705
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -989,8 +1050,9 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29533
-              }
+                "stars": 29535
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "Visual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
@@ -1014,11 +1076,12 @@
                 "archived": false,
                 "id": 32051890,
                 "language": "C#",
-                "last_commit": "2026-08-27T14:58:39Z",
+                "last_commit": "2026-08-28T17:11:52Z",
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5547
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1033,7 +1096,8 @@
                 "owner": "microsoft",
                 "repo": "botframework-sdk",
                 "stars": 7807
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1047,8 +1111,9 @@
                 "last_commit": "2024-02-29T06:37:37Z",
                 "owner": "quasar",
                 "repo": "Quasar",
-                "stars": 9908
-              }
+                "stars": 9909
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1063,7 +1128,8 @@
                 "owner": "codecadwallader",
                 "repo": "codemaid",
                 "stars": 1985
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1074,11 +1140,12 @@
                 "archived": false,
                 "id": 31089461,
                 "language": "TypeSpec",
-                "last_commit": "2026-08-12T02:50:09Z",
+                "last_commit": "2026-08-27T23:36:34Z",
                 "owner": "Azure",
                 "repo": "autorest",
                 "stars": 4798
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1160,8 @@
                 "owner": "xoofx",
                 "repo": "markdig",
                 "stars": 5307
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "Mono is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.\nVisual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nRoslyn is a .NET compiler developed by Microsoft that provides C# and Visual Basic languages with rich code analysis APIs.\nUno Platform is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, WebAssembly, Linux and Windows 7. It provides the full definitions of the UWP Windows 10 2004 (19041), and the implementation of a growing number of parts of the UWP API, such as Windows.UI.Xaml, to enable UWP and WinUI applications to run on these platforms.\nRider is a fast and powerful, cross-platform .NET IDE devloped by JetBrains to develop .NET, ASP.NET, .NET Core, Xamarin; or Unity applications for Windows, Mac, Linux.\nResharper is a Visual Studio Extension for .NET Developers that has On-the-fly code quality analysis for C#, VB.NET, XAML, ASP.NET, ASP.NET MVC, JavaScript, TypeScript, CSS, HTML, and XML. Letting you know right away if your code needs to be improved.\ndotPeek is a tool developed by JetBrains based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or CIL code.\ndotTrace is an .NET performance Profiler developed by Jet Brains. It helps users locate performance bottlenecks in a variety of .NET applications: desktop applications, .NET Core, ASP.NET, ASP.NET Core applications hosted on IIS or IIS Express web servers, Silverlight, WCF services, Windows services, Universal Windows Platform applications, and unit tests.\ndotMemory is an .NET memory Profiler developed by Jet Brains. It allows the user to analyze memory usage in a variety of .NET and .NET Core applications: desktop applications, Windows services, ASP.NET web applications, IIS, IIS Express, arbitrary .NET processes, and more.\ndotCover is an .NET unit test runner and code coverage tool developed by Jet Brains. It helps the user figure out on-the-fly which unit tests are affected by your latest code changes, and automatically re-runs the affected tests for you. The continuous testing mode can be switched on for any unit test session.\nJson.NET is a popular high-performance JSON framework for .NET.\n.NET Fiddle is an advanced online compiler for C# that allows you to create, run and share your code online.\nOctopus Deploy is a single place for your team to manage releases, automate deployments, and automate the runbooks that keeps your software operating.\nAppveyor is a cloud-based continuous integration system that integrates natively with your source control and allows CI configuration files to live alongside your projects.\nAppHarbor is a .NET Platform-as-a-Service that let's developers deploy and scale any standard .NET application to the cloud.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.",
@@ -1117,11 +1185,12 @@
                 "archived": false,
                 "id": 210716005,
                 "language": "C#",
-                "last_commit": "2026-08-27T15:05:27Z",
+                "last_commit": "2026-08-28T17:17:40Z",
                 "owner": "dotnet",
                 "repo": "runtime",
-                "stars": 18231
-              }
+                "stars": 18235
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1132,11 +1201,12 @@
                 "archived": false,
                 "id": 9864166,
                 "language": "C#",
-                "last_commit": "2026-08-27T14:13:05Z",
+                "last_commit": "2026-08-28T16:40:33Z",
                 "owner": "App-vNext",
                 "repo": "Polly",
-                "stars": 14231
-              }
+                "stars": 14232
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1147,11 +1217,12 @@
                 "archived": false,
                 "id": 1327739,
                 "language": "C#",
-                "last_commit": "2026-08-27T12:44:00Z",
+                "last_commit": "2026-08-28T17:08:11Z",
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25961
-              }
+                "stars": 25966
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1162,11 +1233,12 @@
                 "archived": false,
                 "id": 262395224,
                 "language": "C#",
-                "last_commit": "2026-08-27T16:24:53Z",
+                "last_commit": "2026-08-28T17:16:47Z",
                 "owner": "dotnet",
                 "repo": "maui",
-                "stars": 23312
-              }
+                "stars": 23314
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1180,8 +1252,9 @@
                 "last_commit": "2024-02-29T06:37:37Z",
                 "owner": "quasar",
                 "repo": "Quasar",
-                "stars": 9908
-              }
+                "stars": 9909
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": ".NET Core is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.\nASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.\nMono is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.\nVisual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nRider is a fast and powerful, cross-platform .NET IDE devloped by JetBrains to develop .NET, ASP.NET, .NET Core, Xamarin; or Unity applications for Windows, Mac, Linux.\nResharper is a Visual Studio Extension for .NET Developers that has On-the-fly code quality analysis for C#, VB.NET, XAML, ASP.NET, ASP.NET MVC, JavaScript, TypeScript, CSS, HTML, and XML. Letting you know right away if your code needs to be improved.\ndotTrace is an .NET performance Profiler developed by Jet Brains. It helps users locate performance bottlenecks in a variety of .NET applications: desktop applications, .NET Core, ASP.NET, ASP.NET Core applications hosted on IIS or IIS Express web servers, Silverlight, WCF services, Windows services, Universal Windows Platform applications, and unit tests.\ndotMemory is an .NET memory Profiler developed by Jet Brains. It allows the user to analyze memory usage in a variety of .NET and .NET Core applications: desktop applications, Windows services, ASP.NET web applications, IIS, IIS Express, arbitrary .NET processes, and more.\ndotCover is an .NET unit test runner and code coverage tool developed by Jet Brains. It helps the user figure out on-the-fly which unit tests are affected by your latest code changes, and automatically re-runs the affected tests for you. The continuous testing mode can be switched on for any unit test session.\nAvalonia is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS.\nIdentityServer is a free, open source OpenID Connect and OAuth 2.0 framework for ASP.NET Core. IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.\nHangfire is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.\nReact Native Windows is a ramework for building native Windows apps with React. React Native is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React.\nReactiveUI is a composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming, which is a paradigm that allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place and improve the testability of your application.\nRefit is the automatic type-safe REST library for .NET Core, Xamarin and .NET.It's heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.",
@@ -1209,7 +1282,8 @@
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs-python",
                 "stars": 3961
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "Python is an interpreted, high-level programming language. Python is used heavily in the fields of Data Science and Machine Learning.\nPython Developer’s Guide is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python.\nAzure Functions Python developer guide is an introduction to developing Azure Functions using Python. The content below assumes that you've already read the Azure Functions developers guide.\nCheckiO is a programming learning platform and a gamified website that teaches Python through solving code challenges and competing for the most elegant and creative solutions.\nPython Institute\nPCEP – Certified Entry-Level Python Programmer certification\nPCAP – Certified Associate in Python Programming certification\nPCPP – Certified Professional in Python Programming 1 certification\nPCPP – Certified Professional in Python Programming 2\nMTA: Introduction to Programming Using Python Certification\nGetting Started with Python in Visual Studio Code\nGoogle's Python Style Guide\nGoogle's Python Education Class\nReal Python\nIntro to Python for Data Science\nIntro to Python by W3schools\nCodecademy's Python 3 course\nLearn Python with Online Courses and Classes from edX\nPython Courses Online from Coursera",
@@ -1227,11 +1301,12 @@
                 "archived": false,
                 "id": 265902625,
                 "language": "Python",
-                "last_commit": "2026-08-26T05:12:51Z",
+                "last_commit": "2026-08-28T10:47:05Z",
                 "owner": "microsoft",
                 "repo": "pylance-release",
                 "stars": 2116
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1242,11 +1317,12 @@
                 "archived": false,
                 "id": 175129788,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:42:47Z",
+                "last_commit": "2026-08-28T12:46:51Z",
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15601
-              }
+                "stars": 15604
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1260,8 +1336,9 @@
                 "last_commit": "2026-08-12T15:03:00Z",
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11061
-              }
+                "stars": 11060
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1275,8 +1352,9 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38462
-              }
+                "stars": 38465
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1290,8 +1368,9 @@
                 "last_commit": "2026-08-24T22:09:52Z",
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25035
-              }
+                "stars": 25034
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1305,8 +1384,9 @@
                 "last_commit": "2026-07-01T08:19:02Z",
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28209
-              }
+                "stars": 28212
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1320,8 +1400,9 @@
                 "last_commit": "2026-07-19T07:21:52Z",
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8779
-              }
+                "stars": 8778
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1335,8 +1416,9 @@
                 "last_commit": "2026-07-29T03:09:51Z",
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18645
-              }
+                "stars": 18646
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1351,7 +1433,8 @@
                 "owner": "microsoft",
                 "repo": "nni",
                 "stars": 14360
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1365,8 +1448,9 @@
                 "last_commit": "2026-07-18T11:15:46Z",
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18766
-              }
+                "stars": 18769
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1380,8 +1464,9 @@
                 "last_commit": "2026-08-26T17:46:29Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28107
-              }
+                "stars": 28112
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1395,8 +1480,9 @@
                 "last_commit": "2026-08-24T08:26:10Z",
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33854
-              }
+                "stars": 33859
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "Python Package Index (PyPI) is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community.\nPyCharm is the best IDE I've ever used. With PyCharm, you can access the command line, connect to a database, create a virtual environment, and manage your version control system all in one place, saving time by avoiding constantly switching between windows.\nPython Tools for Visual Studio(PTVS) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.\nDjango is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.\nFlask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.\nWeb2py is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.\nTornado is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.\nScrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.\nSentry is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.\nCherryPy is a minimalist Python object-oriented HTTP web framework.\nPyramid is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.\nTurboGears is a hybrid web framework able to act both as a Full Stack framework or as a Microframework.\nFalcon is a reliable, high-performance Python web framework for building large-scale app backends and microservices with support for MongoDB, Pluggable Applications and autogenerated Admin.\nDash is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.\nNumPy is the fundamental package needed for scientific computing with Python.\nPillow is a friendly PIL(Python Imaging Library) fork.\nIPython is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers enhanced introspection, rich media, additional shell syntax, tab completion, and rich history.\nGraphLab Create is a Python library, backed by a C++ engine, for quickly building large-scale, high-performance machine learning models.\nPandas is a fast, powerful, and easy to use open source data structrures, data analysis and manipulation tool, built on top of the Python programming language.\nPuLP is an Linear Programming modeler written in python. PuLP can generate LP files and call on use highly optimized solvers, GLPK, COIN CLP/CBC, CPLEX, and GUROBI, to solve these linear problems.\nMatplotlib is a 2D plotting library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.\nScikit-Learn is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.",
@@ -1424,7 +1510,8 @@
                 "owner": "microsoft",
                 "repo": "verona",
                 "stars": 3727
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "Rust is a multi-paradigm programming language focused on performance and safety. Rust has a comparable amount of runtime to C and C++, and has set up its standard library to be amenable towards OS development. Specifically, the standard library is split into two parts: core and std. Core is the lowest-level aspects only, and doesn't include things like allocation, threading, and other higher-level features.\nThe Rust Language Reference\nThe Rust Programming Language Book\nLearning Rust\nWhy AWS loves Rust\nRust Programming courses on Udemy\nSafety in Systems Programming with Rust at Standford by Ryan Eberhardt\nWebAssembly meets Kubernetes with Krustlet using Rust",
@@ -1442,11 +1529,12 @@
                 "archived": false,
                 "id": 17420913,
                 "language": "Rust",
-                "last_commit": "2026-08-26T22:08:09Z",
+                "last_commit": "2026-08-28T14:57:58Z",
                 "owner": "rust-lang",
                 "repo": "cargo",
-                "stars": 15434
-              }
+                "stars": 15438
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1461,7 +1549,8 @@
                 "owner": "rust-lang",
                 "repo": "vscode-rust",
                 "stars": 1399
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1472,11 +1561,12 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-27T14:29:58Z",
+                "last_commit": "2026-08-28T05:14:38Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17066
-              }
+                "stars": 17068
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1490,8 +1580,9 @@
                 "last_commit": "2026-08-27T09:14:39Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33023
-              }
+                "stars": 33027
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1502,11 +1593,12 @@
                 "archived": false,
                 "id": 48833910,
                 "language": "Rust",
-                "last_commit": "2026-08-27T09:09:03Z",
+                "last_commit": "2026-08-28T12:19:44Z",
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16814
-              }
+                "stars": 16817
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1517,11 +1609,12 @@
                 "archived": false,
                 "id": 23500865,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:08:06Z",
+                "last_commit": "2026-08-28T12:24:56Z",
                 "owner": "hyperium",
                 "repo": "hyper",
-                "stars": 16298
-              }
+                "stars": 16297
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1536,7 +1629,8 @@
                 "owner": "rwf2",
                 "repo": "Rocket",
                 "stars": 25783
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1547,11 +1641,12 @@
                 "archived": false,
                 "id": 3390243,
                 "language": "Rust",
-                "last_commit": "2026-08-27T15:41:06Z",
+                "last_commit": "2026-08-28T17:17:40Z",
                 "owner": "servo",
                 "repo": "servo",
-                "stars": 37804
-              }
+                "stars": 37808
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1562,11 +1657,12 @@
                 "archived": false,
                 "id": 135201145,
                 "language": "Rust",
-                "last_commit": "2026-08-26T14:38:11Z",
+                "last_commit": "2026-08-28T16:12:51Z",
                 "owner": "RustPython",
                 "repo": "RustPython",
-                "stars": 22307
-              }
+                "stars": 22309
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1577,11 +1673,12 @@
                 "archived": false,
                 "id": 46083140,
                 "language": "Rust",
-                "last_commit": "2026-08-27T07:43:59Z",
+                "last_commit": "2026-08-28T11:27:23Z",
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6536
-              }
+                "stars": 6537
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1592,11 +1689,12 @@
                 "archived": false,
                 "id": 97986310,
                 "language": "HCL",
-                "last_commit": "2026-08-27T15:04:34Z",
+                "last_commit": "2026-08-28T15:42:33Z",
                 "owner": "rust-lang",
                 "repo": "simpleinfra",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             },
             {
               "node_type": "item",
@@ -1610,8 +1708,9 @@
                 "last_commit": "2026-08-24T21:17:41Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63965
-              }
+                "stars": 63979
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "Crater is a tool to run experiments across parts of the Rust ecosystem. Its primary purpose is to detect regressions in the Rust compiler, and it does this by building a large number of crates, running their test suites and comparing the results between two versions of the Rust compiler. It can operate locally (with Docker as the only dependency) or distributed on the cloud. It can operate locally (with Docker as the only dependency) or distributed on the cloud.\nWasmer enables super lightweight containers based on WebAssembly that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in any programming language.\nFirecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers. Firecracker has also been integrated in container runtimes, for example Kata Containers and Weaveworks Ignite.\nSonic is a fast, lightweight and schema-less search backend similar to Elasticsearch in some use-cases.\nClippy is a collection of lints to catch common mistakes and improve your Rust code.\nVector is a high-performance, end-to-end (agent & aggregator) observability data platform that puts the user in control of their observability data.\nChalk is an implementation and definition of the Rust trait system using a PROLOG-like logic solver.\nstdarch is Rust's standard library vendor-specific APIs and run-time feature detection.\nKrustlet acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes tolerations. The project is currently experimental.",
@@ -1629,11 +1728,12 @@
                 "archived": false,
                 "id": 179385712,
                 "language": "Rust",
-                "last_commit": "2026-08-25T19:01:08Z",
+                "last_commit": "2026-08-28T02:13:47Z",
                 "owner": "bottlerocket-os",
                 "repo": "bottlerocket",
-                "stars": 9664
-              }
+                "stars": 9665
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": "Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications. Acitvely being developed by Jeremy Soeller.\nTock is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. Tock uses two mechanisms to protect different components of the operating system. First, the kernel and device drivers are written in Rust, a systems programming language that provides compile-time memory safety, type safety and strict aliasing. Tock uses Rust to protect the kernel (the scheduler and hardware abstraction layer) from platform specific device drivers as well as isolate device drivers from each other. Second, Tock uses memory protection units to isolate applications from each other and the kernel.\nRust on Chrome OS is a document that provides information on creating Rust projects for installation within Chrome OS and Chrome OS SDK.\nWriting an OS in Rust is a blog series creates a small operating system in the Rust programming language by Philipp Oppermann.",
@@ -1655,7 +1755,8 @@
                 "owner": "mikeroyal",
                 "repo": "Firmware-Guide",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T17:23:08.280Z"
             }
           ],
           "description": null,
@@ -1667,7 +1768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:25:51.366Z",
+    "last_updated": "2026-08-28T17:23:08.280Z",
     "original_repository_info": {
       "archived": false,
       "id": 389431035,
