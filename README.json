@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -56,7 +56,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -130,7 +130,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -167,7 +167,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -204,7 +204,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -241,7 +241,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -278,7 +278,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -315,7 +315,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -352,7 +352,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -389,7 +389,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Firmware-Guide",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -521,11 +521,11 @@
             "id": 31374735,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-11T18:19:15Z",
-            "open_issues": 108,
+            "last_commit": "2026-09-12T20:31:30Z",
+            "open_issues": 111,
             "owner": "fwupd",
             "repo": "fwupd",
-            "stars": 4152,
+            "stars": 4153,
             "topics": [
               "c",
               "firmware",
@@ -736,10 +736,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T04:40:32Z",
-            "open_issues": 539,
+            "open_issues": 540,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20692,
+            "stars": 20695,
             "topics": [
               "atmel-avr",
               "c",
@@ -770,7 +770,7 @@
             "open_issues": 164,
             "owner": "tmk",
             "repo": "tmk_keyboard",
-            "stars": 4134,
+            "stars": 4135,
             "topics": []
           },
           "first_seen": "2026-08-28T17:23:08.280Z"
@@ -860,7 +860,7 @@
             "open_issues": 220,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6215,
+            "stars": 6217,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -939,11 +939,11 @@
                 "id": 10744183,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T00:21:39Z",
-                "open_issues": 394,
+                "last_commit": "2026-09-13T08:11:51Z",
+                "open_issues": 396,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80493,
+                "stars": 80499,
                 "topics": [
                   "ai",
                   "alerting",
@@ -982,10 +982,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T15:14:34Z",
-                "open_issues": 1941,
+                "open_issues": 1946,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 74855,
+                "stars": 74884,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -1128,7 +1128,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17111,
+                "stars": 17113,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:23:08.280Z"
@@ -1191,7 +1191,7 @@
                 "open_issues": 44,
                 "owner": "cilium",
                 "repo": "hubble",
-                "stars": 4325,
+                "stars": 4326,
                 "topics": [
                   "cilium",
                   "ebpf",
@@ -1320,7 +1320,7 @@
                 "open_issues": 119,
                 "owner": "getpatchwork",
                 "repo": "patchwork",
-                "stars": 316,
+                "stars": 317,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:23:08.280Z"
@@ -1380,8 +1380,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-11T10:35:31Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-12T22:23:06Z",
+                "open_issues": 12,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 99,
@@ -1436,7 +1436,7 @@
                 "open_issues": 338,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38501,
+                "stars": 38503,
                 "topics": [
                   "api",
                   "api-client",
@@ -1608,7 +1608,7 @@
             "open_issues": 242,
             "owner": "keystone-engine",
             "repo": "keystone",
-            "stars": 2633,
+            "stars": 2635,
             "topics": [
               "arm",
               "arm64",
@@ -1643,7 +1643,7 @@
             "open_issues": 215,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9323,
+            "stars": 9327,
             "topics": [
               "arm",
               "arm64",
@@ -1691,7 +1691,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45314,
+                "stars": 45313,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:23:08.280Z"
@@ -1716,10 +1716,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-11T22:56:10Z",
-                "open_issues": 1108,
+                "open_issues": 1117,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27458,
+                "stars": 27460,
                 "topics": [
                   "c",
                   "cmake",
@@ -1792,7 +1792,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1860,7 +1860,7 @@
                 "open_issues": 47,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29591,
+                "stars": 29593,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1896,8 +1896,8 @@
                 "id": 32051890,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T21:16:36Z",
-                "open_issues": 1711,
+                "last_commit": "2026-09-12T15:47:55Z",
+                "open_issues": 1712,
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5548,
@@ -2056,7 +2056,7 @@
                 "language": "C#",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-18T16:02:42Z",
-                "open_issues": 119,
+                "open_issues": 121,
                 "owner": "xoofx",
                 "repo": "markdig",
                 "stars": 5323,
@@ -2101,11 +2101,11 @@
                 "id": 210716005,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-12T09:05:57Z",
-                "open_issues": 7811,
+                "last_commit": "2026-09-13T04:17:25Z",
+                "open_issues": 7840,
                 "owner": "dotnet",
                 "repo": "runtime",
-                "stars": 18268,
+                "stars": 18266,
                 "topics": [
                   "dotnet",
                   "hacktoberfest",
@@ -2126,7 +2126,7 @@
                 "id": 9864166,
                 "language": "C#",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T22:52:10Z",
+                "last_commit": "2026-09-12T10:59:46Z",
                 "open_issues": 1,
                 "owner": "App-vNext",
                 "repo": "Polly",
@@ -2156,11 +2156,11 @@
                 "id": 1327739,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-10T18:54:30Z",
-                "open_issues": 171,
+                "last_commit": "2026-09-13T09:58:13Z",
+                "open_issues": 172,
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 26058,
+                "stars": 26060,
                 "topics": [
                   "c-sharp",
                   "decompile",
@@ -2188,11 +2188,11 @@
                 "id": 262395224,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-12T08:42:34Z",
-                "open_issues": 3880,
+                "last_commit": "2026-09-13T03:15:17Z",
+                "open_issues": 3893,
                 "owner": "dotnet",
                 "repo": "maui",
-                "stars": 23323,
+                "stars": 23319,
                 "topics": [
                   "android",
                   "desktop",
@@ -2302,10 +2302,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-09T05:13:23Z",
-                "open_issues": 25,
+                "open_issues": 28,
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2117,
+                "stars": 2118,
                 "topics": [
                   "code-analysis",
                   "language-server",
@@ -2328,10 +2328,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T22:13:48Z",
-                "open_issues": 330,
+                "open_issues": 333,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15634,
+                "stars": 15638,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:23:08.280Z"
@@ -2384,7 +2384,7 @@
                 "open_issues": 338,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38501,
+                "stars": 38503,
                 "topics": [
                   "api",
                   "api-client",
@@ -2477,7 +2477,7 @@
                 "open_issues": 290,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8783,
+                "stars": 8787,
                 "topics": [
                   "bottle",
                   "python",
@@ -2577,7 +2577,7 @@
                 "open_issues": 173,
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18772,
+                "stars": 18773,
                 "topics": [
                   "hadoop",
                   "luigi",
@@ -2604,7 +2604,7 @@
                 "open_issues": 6,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28144,
+                "stars": 28148,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -2637,7 +2637,7 @@
                 "open_issues": 240,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33892,
+                "stars": 33894,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2714,10 +2714,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T21:22:30Z",
-                "open_issues": 1668,
+                "open_issues": 1669,
                 "owner": "rust-lang",
                 "repo": "cargo",
-                "stars": 15467,
+                "stars": 15469,
                 "topics": [
                   "cargo",
                   "package-manager",
@@ -2762,11 +2762,11 @@
                 "id": 51905353,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T10:18:21Z",
-                "open_issues": 2598,
+                "last_commit": "2026-09-12T11:18:53Z",
+                "open_issues": 2594,
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17100,
+                "stars": 17104,
                 "topics": [
                   "arrow",
                   "parquet"
@@ -2786,11 +2786,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-12T08:39:44Z",
-                "open_issues": 432,
+                "last_commit": "2026-09-13T06:37:03Z",
+                "open_issues": 437,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33125,
+                "stars": 33136,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -2815,7 +2815,7 @@
                 "open_issues": 1810,
                 "owner": "tikv",
                 "repo": "tikv",
-                "stars": 16838,
+                "stars": 16839,
                 "topics": [
                   "cncf",
                   "consensus",
@@ -2847,7 +2847,7 @@
                 "open_issues": 245,
                 "owner": "hyperium",
                 "repo": "hyper",
-                "stars": 16317,
+                "stars": 16316,
                 "topics": [
                   "http",
                   "hyper",
@@ -2872,7 +2872,7 @@
                 "open_issues": 90,
                 "owner": "rwf2",
                 "repo": "Rocket",
-                "stars": 25782,
+                "stars": 25783,
                 "topics": [
                   "framework",
                   "rocket",
@@ -2896,11 +2896,11 @@
                 "id": 3390243,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-12T07:40:32Z",
-                "open_issues": 3199,
+                "last_commit": "2026-09-13T09:36:13Z",
+                "open_issues": 3202,
                 "owner": "servo",
                 "repo": "servo",
-                "stars": 37961,
+                "stars": 37963,
                 "topics": [
                   "browser",
                   "rust",
@@ -2925,8 +2925,8 @@
                 "id": 135201145,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-12T06:51:28Z",
-                "open_issues": 397,
+                "last_commit": "2026-09-13T07:23:12Z",
+                "open_issues": 396,
                 "owner": "RustPython",
                 "repo": "RustPython",
                 "stars": 22342,
@@ -2960,7 +2960,7 @@
                 "open_issues": 183,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6580,
+                "stars": 6581,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:23:08.280Z"
@@ -3004,7 +3004,7 @@
                 "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64125,
+                "stars": 64134,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -3070,7 +3070,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "Firmware-Guide",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3101,7 +3101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:13:41.367Z",
+    "last_updated": "2026-09-13T10:11:31.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "Firmware Guide",
@@ -3113,7 +3113,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "Firmware-Guide",
-      "stars": 166,
+      "stars": 167,
       "topics": [
         "awesome",
         "awesome-list",
