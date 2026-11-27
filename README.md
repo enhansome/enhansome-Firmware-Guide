@@ -81,11 +81,11 @@
 
 [OpenWrt Project](https://openwrt.org/) is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management.
 
-[OpenSK](https://github.com/google/OpenSK) ⭐ 3,495 | 🐛 16 | 🌐 Rust | 📅 2026-11-24 is an open-source implementation for security keys written in Rust that supports both FIDO U2F and [FIDO2](https://fidoalliance.org/fido2/) standards.
+[OpenSK](https://github.com/google/OpenSK) ⭐ 3,495 | 🐛 16 | 🌐 Rust | 📅 2026-11-27 is an open-source implementation for security keys written in Rust that supports both FIDO U2F and [FIDO2](https://fidoalliance.org/fido2/) standards.
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,240 | 🐛 132 | 🌐 C | 📅 2026-11-26 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,244 | 🐛 136 | 🌐 C | 📅 2026-11-27 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -107,11 +107,11 @@
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 22 | 🌐 Rust | 📅 2026-11-04 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 25 | 🌐 Rust | 📅 2026-10-02 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 22 | 🌐 Rust | 📅 2026-11-04 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,240 | 🐛 132 | 🌐 C | 📅 2026-11-26, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 25 | 🌐 Rust | 📅 2026-10-02 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 22 | 🌐 Rust | 📅 2026-11-04 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,244 | 🐛 136 | 🌐 C | 📅 2026-11-27, written in Rust.
 
-[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,154 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
+[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,155 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
-[Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,927 | 🐛 348 | 🌐 C | 📅 2026-11-26 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
+[Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,928 | 🐛 348 | 🌐 C | 📅 2026-11-26 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
 
 [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,642 | 🐛 25 | 🌐 Rust | 📅 2026-11-12 is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the ["Offensive IoT Exploitation"](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation) training conducted by [Attify](https://attify.com/).
 
@@ -121,9 +121,9 @@
 
 [Mellanox FlexBoot](https://www.mellanox.com/products/adapter-software/flexboot) is a multiprotocol remote boot technology that delivers unprecedented flexibility in how IT Managers can provision or repurpose their datacenter servers. FlexBoot enables remote boot over InfiniBand or Ethernet using Boot over InfiniBand, over Ethernet, or Boot over iSCSI (Bo-iSCSI). Combined with Virtual Protocol Interconnect (VPI) technologies available in ConnectX®-3 and onwards adapters, FlexBoot gives IT Managers the flexibility to deploy servers with one adapter card into InfiniBand or Ethernet networks with the ability to boot from LAN or remote storage targets.
 
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,128 | 🐛 25 | 🌐 C# | 📅 2026-08-20 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
+[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,129 | 🐛 25 | 🌐 C# | 📅 2026-08-20 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,834 | 🐛 592 | 🌐 C | 📅 2026-11-18 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,836 | 🐛 593 | 🌐 C | 📅 2026-11-27 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
 [TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,139 | 🐛 168 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
@@ -159,11 +159,11 @@
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,584 | 🐛 201 | 🌐 Rust | 📅 2026-11-26 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,588 | 🐛 206 | 🌐 Rust | 📅 2026-11-27 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
-[Xen](https://github.com/xen-project/xen) ⭐ 864 | 🐛 4 | 🌐 C | 📅 2026-11-26 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
+[Xen](https://github.com/xen-project/xen) ⭐ 864 | 🐛 4 | 🌐 C | 📅 2026-11-27 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
 
 [Ganeti](https://github.com/ganeti/ganeti) ⭐ 590 | 🐛 328 | 🌐 Python | 📅 2026-11-25 is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Once installed, the tool assumes management of the virtual instances (Xen DomU).
 
@@ -244,11 +244,11 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 ## Security Tools
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 81,653 | 🐛 476 | 🌐 Go | 📅 2026-11-26 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 81,663 | 🐛 478 | 🌐 Go | 📅 2026-11-27 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [IDA Pro(Interactive DisAssembler Professional)](https://hex-rays.com/IDA-pro/) is a programmable and multi-processor disassembler combined with a local/remote debugger and along with a complete plugin programming environment. It's a great tool for testing and discovering security vulnerabilities.
 
-[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 101,418 | 🐛 2,205 | 🌐 Java | 📅 2026-11-25 is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze any malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems.
+[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 101,501 | 🐛 2,201 | 🌐 Java | 📅 2026-11-27 is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze any malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems.
 
 [DataWave](https://github.com/NationalSecurityAgency/datawave) ⭐ 780 | 🐛 430 | 🌐 Java | 📅 2026-11-25 is an ingest/query framework that leverages [Apache Accumulo](https://accumulo.apache.org/) to provide fast, secure data access.
 
@@ -276,7 +276,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Cilium](https://cilium.io/) uses eBPF to accelerate getting data in and out of L7 proxies such as Envoy, enabling efficient visibility into API protocols like HTTP, gRPC, and Kafka.
 
-[Hubble](https://github.com/cilium/hubble) ⭐ 4,399 | 🐛 44 | 🌐 Makefile | 📅 2026-11-25 is a Network, Service & Security Observability for Kubernetes using eBPF.
+[Hubble](https://github.com/cilium/hubble) ⭐ 4,402 | 🐛 43 | 🌐 Makefile | 📅 2026-11-27 is a Network, Service & Security Observability for Kubernetes using eBPF.
 
 [Istio](https://istio.io/) is an open platform to connect, manage, and secure microservices. Istio's control plane provides an abstraction layer over the underlying cluster management platform, such as Kubernetes and Mesos.
 
@@ -284,7 +284,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Scapy](https://scapy.net/) is a python-based interactive packet manipulation program & library.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,425 | 🐛 656 | 🌐 Go | 📅 2026-11-26 is an unsupervised, coverage-guided kernel fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,425 | 🐛 660 | 🌐 Go | 📅 2026-11-27 is an unsupervised, coverage-guided kernel fuzzer.
 
 [SchedViz](https://github.com/google/schedviz) ⚠️ Archived is a tool for gathering and visualizing kernel scheduling traces on Linux machines.
 
@@ -294,7 +294,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Metasploit Project](https://www.metasploit.com/) is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
 
-[Wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,609 | 🐛 117 | 🌐 Python | 📅 2026-01-21 was created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+[Wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,610 | 🐛 117 | 🌐 Python | 📅 2026-01-21 was created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
 [Nmap](https://nmap.org/) is a security scanner used to discover hosts and services on a computer network, thus building a "map" of the network.
 
@@ -363,17 +363,17 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
-[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 10 | 🌐 C++ | 📅 2026-11-25 is a quality assurance testing for the curl project.
+[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 101 | 🐛 10 | 🌐 C++ | 📅 2026-11-25 is a quality assurance testing for the curl project.
 
-[DoH](https://github.com/curl/doh) ⭐ 436 | 🐛 6 | 🌐 C | 📅 2026-11-23 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
+[DoH](https://github.com/curl/doh) ⭐ 437 | 🐛 6 | 🌐 C | 📅 2026-11-23 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,740 | 🐛 365 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,754 | 🐛 368 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,223 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
-[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,747 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
+[Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,746 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
-[Websocat](https://github.com/vi/websocat) ⭐ 8,761 | 🐛 159 | 🌐 Rust | 📅 2026-11-18 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
+[Websocat](https://github.com/vi/websocat) ⭐ 8,761 | 🐛 158 | 🌐 Rust | 📅 2026-11-26 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
 ```
 • Connection: In networking, a connection refers to pieces of related information that are transferred through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.
@@ -558,9 +558,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [PlatformIO for VSCode](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) is a plugin that provides support for the PlatformIO IDE on VSCode.
 
-[Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,665 | 🐛 243 | 🌐 C++ | 📅 2026-11-08 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
+[Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,666 | 🐛 243 | 🌐 C++ | 📅 2026-11-08 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,618 | 🐛 283 | 🌐 C | 📅 2026-11-10 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,619 | 🐛 284 | 🌐 C | 📅 2026-11-10 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 # C/C++ Development
 
@@ -599,7 +599,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,496 | 🐛 250 | 🌐 CSS | 📅 2026-11-02
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,499 | 🐛 250 | 🌐 CSS | 📅 2026-11-02
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -645,7 +645,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,646 | 🐛 1,036 | 🌐 CMake | 📅 2026-11-26 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,653 | 🐛 1,053 | 🌐 CMake | 📅 2026-11-27 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -693,11 +693,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Oat++](https://oatpp.io/) is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 
-[JavaCPP](https://github.com/bytedeco/javacpp) ⭐ 4,706 | 🐛 113 | 🌐 Java | 📅 2026-08-10 is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.
+[JavaCPP](https://github.com/bytedeco/javacpp) ⭐ 4,707 | 🐛 113 | 🌐 Java | 📅 2026-08-10 is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,830 | 🐛 57 | 🌐 C++ | 📅 2026-11-25 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,838 | 🐛 58 | 🌐 C++ | 📅 2026-11-25 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -745,7 +745,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
-[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,557 | 🐛 1,943 | 🌐 C# | 📅 2026-11-26 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
+[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,557 | 🐛 1,947 | 🌐 C# | 📅 2026-11-27 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
 
 [Roslyn](https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/) is a .NET compiler developed by Microsoft that provides C# and Visual Basic languages with rich code analysis APIs.
 
@@ -769,7 +769,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Quasar](https://github.com/quasar/Quasar) ⚠️ Archived is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
-[CodeMaid](https://github.com/codecadwallader/codemaid) ⭐ 1,986 | 🐛 507 | 🌐 C# | 📅 2025-10-13 is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+[CodeMaid](https://github.com/codecadwallader/codemaid) ⭐ 1,985 | 🐛 507 | 🌐 C# | 📅 2025-10-13 is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 
 [.NET Fiddle](https://dotnetfiddle.net/) is an advanced online compiler for C# that allows you to create, run and share your code online.
 
@@ -781,7 +781,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [ANTLR (ANother Tool for Language Recognition)](https://www.antlr.org/) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.
 
-[AutoRest](https://github.com/Azure/autorest) ⭐ 4,787 | 🐛 22 | 🌐 TypeSpec | 📅 2026-11-16 is a tool generates client libraries for accessing RESTful web services using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,338 | 🐛 79 | 🌐 Markdown | 📅 2026-11-12 format. It Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby.
+[AutoRest](https://github.com/Azure/autorest) ⭐ 4,787 | 🐛 22 | 🌐 TypeSpec | 📅 2026-11-16 is a tool generates client libraries for accessing RESTful web services using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,340 | 🐛 79 | 🌐 Markdown | 📅 2026-11-12 format. It Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby.
 
 [Markdig](https://github.com/lunet-io/markdig) ⭐ 5,360 | 🐛 112 | 🌐 C# | 📅 2026-11-23 is a fast, powerful, [CommonMark](https://commonmark.org/) compliant, extensible Markdown processor for .NET.
 
@@ -812,7 +812,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
-[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,468 | 🐛 8,397 | 🌐 C# | 📅 2026-11-26 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
+[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,469 | 🐛 8,422 | 🌐 C# | 📅 2026-11-27 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
 
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -832,11 +832,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Avalonia](https://avaloniaui.net/) is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS.
 
-[Polly](https://github.com/App-vNext/Polly) ⭐ 14,258 | 🐛 7 | 🌐 C# | 📅 2026-11-25 is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+[Polly](https://github.com/App-vNext/Polly) ⭐ 14,257 | 🐛 7 | 🌐 C# | 📅 2026-11-25 is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 
 [IdentityServer](https://identityserver.io/) is a free, open source [OpenID Connect](https://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core. IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
 
-[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 27,180 | 🐛 159 | 🌐 C# | 📅 2026-11-24 is the open-source .NET assembly browser and decompiler.
+[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 27,192 | 🐛 164 | 🌐 C# | 📅 2026-11-27 is the open-source .NET assembly browser and decompiler.
 
 [Hangfire](https://www.hangfire.io/) is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.
 
@@ -846,7 +846,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Refit](https://reactiveui.github.io/refit/) is the automatic type-safe REST library for .NET Core, Xamarin and .NET.It's heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
-[MAUI](https://github.com/dotnet/maui) ⭐ 23,316 | 🐛 1,294 | 🌐 C# | 📅 2026-11-26 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+[MAUI](https://github.com/dotnet/maui) ⭐ 23,318 | 🐛 1,325 | 🌐 C# | 📅 2026-11-27 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 [Quasar](https://github.com/quasar/Quasar) ⚠️ Archived is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
@@ -910,9 +910,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Python Tools for Visual Studio(PTVS)](https://microsoft.github.io/PTVS/) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.
 
-[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,171 | 🐛 30 | 🌐 Python | 📅 2026-11-24 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
+[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,171 | 🐛 31 | 🌐 Python | 📅 2026-11-24 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
 
-[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,764 | 🐛 418 | 🌐 Python | 📅 2026-11-24 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,766 | 🐛 418 | 🌐 Python | 📅 2026-11-27 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 [Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -920,25 +920,25 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Web2py](http://web2py.com/) is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.
 
-[AWS Chalice](https://github.com/aws/chalice) ⭐ 11,062 | 🐛 500 | 🌐 Python | 📅 2026-11-11 is a framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
+[AWS Chalice](https://github.com/aws/chalice) ⭐ 11,061 | 🐛 500 | 🌐 Python | 📅 2026-11-11 is a framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,740 | 🐛 365 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,754 | 🐛 368 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
 [Sentry](https://sentry.io/) is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
-[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,022 | 🐛 7 | 🌐 Python | 📅 2026-11-25 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
+[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,021 | 🐛 5 | 🌐 Python | 📅 2026-11-26 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
 
 [Python Fire](https://github.com/google/python-fire) ⭐ 28,229 | 🐛 233 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
-[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,803 | 🐛 289 | 🌐 Python | 📅 2026-10-25 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
+[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,801 | 🐛 289 | 🌐 Python | 📅 2026-10-25 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
 
 [CherryPy](https://cherrypy.org) is a minimalist Python object-oriented HTTP web framework.
 
-[Sanic](https://github.com/huge-success/sanic) ⭐ 18,638 | 🐛 168 | 🌐 Python | 📅 2026-11-20 is a Python 3.6+ web server and web framework that's written to go fast.
+[Sanic](https://github.com/huge-success/sanic) ⭐ 18,638 | 🐛 169 | 🌐 Python | 📅 2026-11-20 is a Python 3.6+ web server and web framework that's written to go fast.
 
 [Pyramid](https://trypyramid.com) is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.
 
@@ -950,9 +950,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Dash](https://plotly.com/dash) is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.
 
-[Luigi](https://github.com/spotify/luigi) ⭐ 18,798 | 🐛 198 | 🌐 Python | 📅 2026-11-26 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
+[Luigi](https://github.com/spotify/luigi) ⭐ 18,798 | 🐛 199 | 🌐 Python | 📅 2026-11-26 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,314 | 🐛 23 | 🌐 Python | 📅 2026-11-24 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,313 | 🐛 26 | 🌐 Python | 📅 2026-11-24 is an easy to use, scriptable and scalable performance testing tool.
 
 [spaCy](https://github.com/explosion/spaCy) ⭐ 34,095 | 🐛 278 | 🌐 Python | 📅 2026-11-21 is a library for advanced Natural Language Processing in Python and Cython.
 
@@ -1003,45 +1003,45 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## Rust Tools
 
-[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,804 | 🐛 1,727 | 🌐 Rust | 📅 2026-11-26 is a package manager that downloads your Rust project’s dependencies and compiles your project.
+[Cargo](https://github.com/rust-lang/cargo) ⭐ 15,811 | 🐛 1,725 | 🌐 Rust | 📅 2026-11-27 is a package manager that downloads your Rust project’s dependencies and compiles your project.
 
 [Crater](https://crater.rust-lang.org/) is a tool to run experiments across parts of the Rust ecosystem. Its primary purpose is to detect regressions in the Rust compiler, and it does this by building a large number of crates, running their test suites and comparing the results between two versions of the Rust compiler. It can operate locally (with Docker as the only dependency) or distributed on the cloud. It can operate locally (with Docker as the only dependency) or distributed on the cloud.
 
 [VSCode-Rust](https://github.com/rust-lang/vscode-rust) ⚠️ Archived is plugin that adds language support for Rust to Visual Studio Code. Rust support is powered by a separate language server - either by the official Rust Language Server (RLS) or rust-analyzer, depending on the user's preference. If you don't have it installed, the extension will install it for you (with permission). This extension is built and maintained by the Rust IDEs and editors team with the focus on providing a stable, high quality extension that makes the best use of the respective language server.
 
-[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,351 | 🐛 2,161 | 🌐 C++ | 📅 2026-11-26 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
+[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,361 | 🐛 2,174 | 🌐 C++ | 📅 2026-11-27 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
 
-[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 21,266 | 🐛 214 | 🌐 Rust | 📅 2026-11-25.
+[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 21,265 | 🐛 192 | 🌐 Rust | 📅 2026-11-25.
 
 [Firecracker](https://firecracker-microvm.github.io) is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) ⚠️ Archived and [Weaveworks Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived.
 
-[Tokio](https://github.com/tokio-rs/tokio) ⭐ 33,807 | 🐛 440 | 🌐 Rust | 📅 2026-11-26 is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
+[Tokio](https://github.com/tokio-rs/tokio) ⭐ 33,817 | 🐛 440 | 🌐 Rust | 📅 2026-11-27 is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
 
-[TiKV](https://github.com/tikv/tikv) ⭐ 16,971 | 🐛 2,016 | 🌐 Rust | 📅 2026-11-25 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
+[TiKV](https://github.com/tikv/tikv) ⭐ 16,972 | 🐛 2,016 | 🌐 Rust | 📅 2026-11-25 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
 
 [Sonic](https://crates.io/crates/sonic-server) is a fast, lightweight and schema-less search backend similar to Elasticsearch in some use-cases.
 
-[Hyper](https://github.com/hyperium/hyper) ⭐ 16,472 | 🐛 226 | 🌐 Rust | 📅 2026-11-23 is a fast and correct HTTP library for Rust.
+[Hyper](https://github.com/hyperium/hyper) ⭐ 16,479 | 🐛 227 | 🌐 Rust | 📅 2026-11-23 is a fast and correct HTTP library for Rust.
 
-[Rocket](https://github.com/SergioBenitez/Rocket) ⭐ 25,816 | 🐛 72 | 🌐 Rust | 📅 2026-11-21 is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
+[Rocket](https://github.com/SergioBenitez/Rocket) ⭐ 25,815 | 🐛 72 | 🌐 Rust | 📅 2026-11-21 is an async web framework for Rust with a focus on usability, security, extensibility, and speed.
 
 [Clippy](https://rust-lang.github.io/rust-clippy/) is a collection of lints to catch common mistakes and improve your Rust code.
 
-[Servo](https://github.com/servo/servo) ⭐ 38,662 | 🐛 3,164 | 🌐 Rust | 📅 2026-11-26 is a prototype web browser engine written in the Rust language.
+[Servo](https://github.com/servo/servo) ⭐ 38,682 | 🐛 3,158 | 🌐 Rust | 📅 2026-11-27 is a prototype web browser engine written in the Rust language.
 
 [Vector](https://vector.dev/) is a high-performance, end-to-end (agent & aggregator) observability data platform that puts the user in control of their observability data.
 
-[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,510 | 🐛 327 | 🌐 Rust | 📅 2026-11-26 is a Python Interpreter written in Rust.
+[RustPython](https://github.com/RustPython/RustPython) ⭐ 22,512 | 🐛 333 | 🌐 Rust | 📅 2026-11-26 is a Python Interpreter written in Rust.
 
-[Miri](https://github.com/rust-lang/miri) ⭐ 6,775 | 🐛 192 | 🌐 Rust | 📅 2026-11-26 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
+[Miri](https://github.com/rust-lang/miri) ⭐ 6,778 | 🐛 193 | 🌐 Rust | 📅 2026-11-27 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
 
 [Chalk](https://rust-lang.github.io/chalk/book/) is an implementation and definition of the Rust trait system using a PROLOG-like logic solver.
 
 [stdarch](https://doc.rust-lang.org/stable/core/arch/) is Rust's standard library vendor-specific APIs and run-time feature detection.
 
-[Simpleinfra](https://github.com/rust-lang/simpleinfra) ⭐ 181 | 🐛 77 | 🌐 HCL | 📅 2026-11-25 is rep that contains the tools and automation written by the Rust infrastructure team to manage our services. Using some of the tools in this repo require privileges only infra team members have.
+[Simpleinfra](https://github.com/rust-lang/simpleinfra) ⭐ 181 | 🐛 78 | 🌐 HCL | 📅 2026-11-26 is rep that contains the tools and automation written by the Rust infrastructure team to manage our services. Using some of the tools in this repo require privileges only infra team members have.
 
-[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 64,803 | 🐛 40 | 🌐 Rust | 📅 2026-11-10 is a small set of exercises to get you used to reading and writing Rust code.
+[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 64,827 | 🐛 40 | 🌐 Rust | 📅 2026-11-10 is a small set of exercises to get you used to reading and writing Rust code.
 
 [Krustlet](https://krustlet.dev/) acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes [tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/). The project is currently experimental.
 
@@ -1069,4 +1069,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
